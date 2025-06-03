@@ -379,3 +379,4 @@ progress,
 [type=range] {
   accent-color: var(--pico-primary);
 }
+@media (prefers-color-scheme:dark){.only-on-dark{display:block}.only-on-light{display:none}}
